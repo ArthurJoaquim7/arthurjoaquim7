@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">Oi 👋, Bem Vind@</h1>
+<h3 align="left">💻 Cursando Análise e Desenvolvimento de Sistemas(3/5)</h3>
 
-<!--
-**ArthurJoaquim7/arthurjoaquim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="left" font-style="italic">Portfolio 👉 https://arthurjoaquim7.github.io/Atual-Portfolio</h2> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,python,django,js,html,css)](https://skillicons.dev)
+
+<h2 align="left">Redes</h2>
+<p align="left">
+<a href="https://linkedin.com/in/arthurjoaquim7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arthurjoaquim7" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arthurjoaquim7&" alt="arthurjoaquim7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurjoaquim7&show_icons=true&locale=en&layout=compact" alt="arthurjoaquim7" /></p>
+
