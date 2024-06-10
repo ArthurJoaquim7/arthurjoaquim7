@@ -5,7 +5,7 @@
 <h2 align="left" font-style="italic">Portfolio 👉 https://arthurjoaquim7.github.io/Atual-Portfolio</h2> 
 
 # 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,python,django,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,typescript,angular,php,laravel,mysql,mongodb)](https://skillicons.dev)
 
 <h2 align="left">Redes</h2>
 <p align="left">
